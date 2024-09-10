@@ -1,0 +1,6 @@
+.idea
+*.swp
+node_modules
+*.log
+*.log.gz
+*.pem
